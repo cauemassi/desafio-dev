@@ -1,0 +1,3 @@
+[submodule "desafio-ruby-on-rails"]
+	path = desafio-ruby-on-rails
+	url = https://github.com/cauemassi/desafio-ruby-on-rails.git
